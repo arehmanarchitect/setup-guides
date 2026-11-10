@@ -1,4 +1,13 @@
-### AWS CLI – Quick Reference
+# AWS CLI
+AWS cli is cli tool to collaborate with aws cloud.
+
+# Intsallation
+## Install on MacOS
+* Run the command to install: `brew install awscli`
+* Check version: `aws --version`
+  
+
+### AWS CLI – Quick ommands
 
 | Task                                    | Command                                                   |
 | --------------------------------------- | --------------------------------------------------------- |
