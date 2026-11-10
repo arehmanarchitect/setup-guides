@@ -18,7 +18,7 @@ Your database data persists even when you stop or remove the container, provided
 Save the configuration as `docker-compose.yml`.
 Open Terminal in the directory containing the file.
 
-* Run the docker-compose: `bash docker compose up -d`
+* Run the docker-compose: ```bash docker compose up -d```
 * Check container status: `bash docker compose ps `
 
 * View logs: ` bash docker compose logs -f mysql `
